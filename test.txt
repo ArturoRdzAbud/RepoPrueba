@@ -1,6 +1,3 @@
 estamos editando el archivo por primera vez
-<<<<<<< HEAD
 otro cambio en rama main
-=======
 por segunda vez
->>>>>>> ramasecundaria
